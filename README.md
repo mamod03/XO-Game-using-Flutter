@@ -1,6 +1,6 @@
-# file_manager
+# XO_Game
 
-A new Flutter project.
+Basic XO game using Flutter Frameword .
 
 ## Getting Started
 
