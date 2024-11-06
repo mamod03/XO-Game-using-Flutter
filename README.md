@@ -1,7 +1,6 @@
-# file_manager
+# XO-Game
 
-A new Flutter project.
-
+Basic XO Game using Flutter Framework .
 ## Getting Started
 
 This project is a starting point for a Flutter application.
